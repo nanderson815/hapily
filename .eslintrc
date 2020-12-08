@@ -2,6 +2,8 @@
   "extends": "airbnb",
   "rules": {
     "semi": 0,
-    "arrow-body-style": ["allow"]
+    "arrow-body-style": 0,
+    "react/jsx-one-expression-per-line": 0,
+    "react/prop-types": 0
   }
 }
